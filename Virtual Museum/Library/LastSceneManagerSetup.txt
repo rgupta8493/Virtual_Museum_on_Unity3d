@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Museum_design.unity
+  isLoaded: 1
+  isActive: 1
